@@ -1,0 +1,9 @@
+12:01:23 GET /api/products 200 0.045s
+12:01:25 GET /api/cart 200 0.032s
+12:05:10 POST /api/orders 500 6.210s
+12:05:12 GET /api/products 200 0.210s
+12:08:45 POST /api/orders 500 8.103s
+12:10:03 GET /api/products 200 4.102s
+12:10:05 GET /api/products 200 4.501s
+12:30:00 GET /api/products 200 7.210s
+12:30:02 POST /api/orders 500 10.002s
